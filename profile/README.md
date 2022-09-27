@@ -12,13 +12,13 @@ Get to know PHP.Gt
 
 Jump right in to some [full featured tutorials][tutorial-webengine], or follow the [getting started guide][getting-started-webengine] for a good overview of the development process in WebEngine applications.
 
-Take a look at some [example applications][example-applications] made in WebEngine, all with open source code so you can comb through the nuts and bolts and learn in your own time.
+Take a look at some [example applications][webengine-example-applications] made in WebEngine, all with open source code so you can comb through the nuts and bolts and learn in your own time.
 
 ### The Document Object Model (DOM)
 
 Modern web development is underpinned by the DOM, but using its benefits is usually constrained to the client-side.
 
-Having a full-featured DOM in your server-side code enhances the way dynamic pages can be built. Utilising a standardised object-oriented interface means the page can be ready-processed as Multi-page Applications (MPAs), benefitting browsers, web servers, content delivery networks and end-users.
+Having a [full-featured DOM][dom] in your server-side code enhances the way dynamic pages can be built. Utilising a standardised object-oriented interface means the page can be ready-processed as Multi-page Applications (MPAs), benefitting browsers, web servers, content delivery networks and end-users.
 
 On top of the [standard DOM API][dom-standards], you can take advantage of [intuitive templating][domtemplate], [server-side validation][domvalidation], and more.
 
@@ -30,6 +30,20 @@ There's [no database connection made until you use one][webengine-lazy-services]
 
 ### For full-stack developers
 
-Client-side development is handled automatically through the [build process][webengine-build]. A sensible set of [default build steps][webengine-build-defaults] can be extended when needed.
+Client-side development is handled automatically through the [build process][build]. A sensible set of [default build steps][webengine-build] can be extended when needed.
 
 A [micro framework on the client side][instant-pages] gives your pages live updates and transitions out of the box.
+
+[tutorial-webengine]: https://www.php.gt/webengine/tutorial/
+[getting-started-webengine]: https://www.php.gt/webengine/getting-started/
+[webengine-example-applications]: https://www.php.gt/webengine/example-applications/
+[dom]: https://www.php.gt/dom/
+[dom-standards]: https://www.php.gt/dom/standards/
+[domtemplate]: https://www.php.gt/domtemplate/
+[domvalidation]: https://www.php.gt/domvalidation/
+[orm]: https://www.php.gt/orm/
+[orm-custom-sql]: https://www.php.gt/orm/custom-sql/
+[webengine-lazy-services]: https://www.php.gt/webengine/service-loader/
+[build]: https://www.php.gt/build/
+[webengine-build]: https://www.php.gt/webengine/build/
+[instant-pages]: https://www.php.gt/instant/
