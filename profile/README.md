@@ -5,12 +5,15 @@ PHP.Gt is a collection of web development tools that make up the [PHP.Gt WebEngi
 
 Web frameworks offer many features, but often come with steep learning curves or imposing rules. The motivation behind this project is the belief that what a framework can offer can be achieved by **eliminating code rather than adding more**.
 
+// TODO: This README will be used, along with each repository's individual Wikis, as the content to www.php.gt - it's currently WIP.
+
+<!--
 Get to know PHP.Gt
 ------------------
 
 ### WebEngine
 
-Jump right in to some [full featured tutorials][tutorial-webengine], or follow the [getting started guide][getting-started-webengine] for a good overview of the development process in WebEngine applications.
+Jump right in to some [full featured tutorials][webengine-tutorials], or follow the [getting started guide][getting-started-webengine] for a good overview of the development process in WebEngine applications.
 
 Take a look at some [example applications][webengine-example-applications] made in WebEngine, all with open source code so you can comb through the nuts and bolts and learn in your own time.
 
@@ -33,8 +36,8 @@ There's [no database connection made until you use one][webengine-lazy-services]
 Client-side development is handled automatically through the [build process][build]. A sensible set of [default build steps][webengine-build] can be extended when needed.
 
 A [micro framework on the client side][instant-pages] gives your pages live updates and transitions out of the box.
-
-[tutorial-webengine]: https://www.php.gt/webengine/tutorial/
+-->
+[webengine-tutorials]: https://www.php.gt/webengine/tutorials/
 [getting-started-webengine]: https://www.php.gt/webengine/getting-started/
 [webengine-example-applications]: https://www.php.gt/webengine/example-applications/
 [dom]: https://www.php.gt/dom/
