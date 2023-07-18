@@ -29,7 +29,7 @@ On top of the [standard DOM API][dom-standards], you can take advantage of [intu
 
 The [Object Relational Mapper (ORM)][orm] automates database persistence, but allows you to get your hands dirty with [custom SQL queries][orm-custom-sql] when you need to.
 
-There's [no database connection made until you use one][webengine-lazy-services], so you're not forced to use any technologies until they're a requirement of your application's functionality - sometimes a file in a directory, or a CSV file is all you need!
+There's [no database connection made until you use one][webengine-lazy-services], so you're not forced to use any technologies until they're a requirement of your application's functionality - sometimes a directory structure or a CSV file is all you need!
 
 ### For full-stack developers
 
