@@ -35,7 +35,7 @@ There's [no database connection made until you use one][webengine-lazy-services]
 
 Client-side development is handled automatically through the [build process][build]. A sensible set of [default build steps][webengine-build] can be extended when needed.
 
-A [micro framework on the client side][instant-pages] gives your pages live updates and transitions out of the box.
+A [micro framework on the client side][turbo-pages] gives your pages live updates and transitions out of the box.
 -->
 
 [webengine-tutorials]: https://www.php.gt/docs/webengine/tutorials/
@@ -52,4 +52,5 @@ A [micro framework on the client side][instant-pages] gives your pages live upda
 [webengine-lazy-services]: https://www.php.gt/docs/webengine/service-loader/
 [build]: https://www.php.gt/build/
 [webengine-build]: https://www.php.gt/docs/webengine/build/
-[instant-pages]: https://www.php.gt/instant/
+[turbo-pages]: https://www.php.gt/turbo/
+
