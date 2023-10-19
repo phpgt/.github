@@ -41,12 +41,11 @@ The [Object Relational Mapper (ORM)][orm] automates database persistence, but al
 
 There's [no database connection made until you use one][webengine-lazy-services], so you're not forced to use any technologies until they're a requirement of your application's functionality - sometimes a directory structure or a CSV file is all you need!
 
-### For full-stack developers
+### The full stack
 
 Client-side development is handled automatically through the [build process][build]. A sensible set of [default build steps][webengine-build] can be extended when needed.
 
 A [micro framework on the client side][turbo-pages] gives your pages live updates and transitions out of the box.
--->
 
 [webengine-tutorials]: https://www.php.gt/docs/webengine/tutorials/
 [webengine-getting-started]: https://www.php.gt/docs/webengine/getting-started/
