@@ -31,7 +31,7 @@ The user guide starts at ["the request-response lifecycle"][webengine-request-re
 
 Modern web development is underpinned by the DOM, but using its benefits is usually constrained to the client-side.
 
-Having a [full-featured DOM][dom] in your server-side code enhances the way dynamic pages can be built. Utilising a standardised object-oriented interface means the page can be ready-processed as [Multi-page Applications (MPAs)][webengine-mpa], benefitting browsers, web servers, content delivery networks and end-users.
+Having a [full-featured DOM][dom] in your server-side code enhances the way dynamic pages can be built. Utilising a standardised object-oriented interface means the page can be ready-processed as [Multi-page Applications (MPAs)][webengine-mpa], benefitting browsers, web servers, content delivery networks, and end-users.
 
 On top of the [standard DOM API][dom-standards], you can take advantage of [intuitive templating][domtemplate], [server-side validation][domvalidation], and more.
 
