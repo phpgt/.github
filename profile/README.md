@@ -7,6 +7,7 @@ Web frameworks offer many features, but often come with steep learning curves or
 
 > // TODO: This README will be used, along with each repository's individual Wikis, as the content to www.php.gt - it's currently WIP.
 
+<!--
 Who is PHP.Gt for?
 ------------------
 
@@ -46,6 +47,8 @@ There's [no database connection made until you use one][webengine-lazy-services]
 Client-side development is handled automatically through the [build process][build]. A sensible set of [default build steps][webengine-build] can be extended when needed.
 
 A [micro framework on the client side][turbo-pages] gives your pages live updates and transitions out of the box.
+
+-->
 
 [webengine-tutorials]: https://www.php.gt/docs/webengine/tutorials/
 [webengine-getting-started]: https://www.php.gt/docs/webengine/getting-started/
