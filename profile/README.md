@@ -1,13 +1,23 @@
 Minimalist, modular, modern PHP development
 ===========================================
 
-PHP.Gt is a collection of web development tools that make up the [PHP.Gt WebEngine](https://www.php.gt/webengine/) — an application development toolkit aimed at streamlining development and respecting web standards.
+PHP.Gt is a collection of web development tools that make up [WebEngine](https://www.php.gt/webengine/) — an application development toolkit aimed at streamlining development and respecting web standards.
 
 Web frameworks offer many features, but often come with steep learning curves or imposing rules. The motivation behind this project is the belief that what a framework can offer can be achieved by **eliminating code rather than adding more**.
 
 > // TODO: This README will be used, along with each repository's individual Wikis, as the content to www.php.gt - it's currently WIP.
 
-<!--
+Who is PHP.Gt for?
+------------------
+
+The overall aim throughout all PHP.Gt repositories is to provide an alternative, minimalistic approach to web development. If you're tired of working with the so called "full stack", there might be something of interest to you here.
+
+All PHP.Gt repositories are designed to be inclusive to novice developers. Each repository is designed to operate independently, allowing developers to leverage individual components without necessarily needing to adopt the entire framework or possess prior knowledge of WebEngine. This modular approach not only enhances flexibility but also promotes a more focused, purpose-driven development experience.
+
+WebEngine itself provides a "batteries-included" default configuration and has an accessible entry point for beginners. However, its capabilities extend far beyond basic use-cases; WebEngine is robust enough to power large-scale, real-world applications serving millions of users.
+
+Whether you're just starting your web development journey or seeking a new perspective on established practices, you are invited to explore WebEngine further by visiting the [Getting Started][webengine-getting-started] page.
+
 Get to know PHP.Gt
 ------------------
 
