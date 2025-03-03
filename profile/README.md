@@ -1,7 +1,8 @@
-Minimalist, modular, modern PHP development
-===========================================
+# PHP.GT
 
-PHP.Gt is a collection of web development tools that make up [WebEngine](https://www.php.gt/webengine/) — an application development toolkit aimed at streamlining development and respecting web standards.
+**PHP.GT** is a collection of web development tools that form **[WebEngine](https://www.php.gt/webengine/)** — an ergonomic toolkit for building web applications. WebEngine follows a static-first approach: development begins using plain static HTML, with PHP introduced only when needed. Dynamic behavior is handled through server-side DOM manipulation, mirroring well-known client-side techniques.
+
+## Minimalist, modular, modern PHP development
 
 Web frameworks offer many features, but often come with steep learning curves or imposing rules. The motivation behind this project is the belief that what a framework can offer can be achieved by **eliminating code rather than adding more**.
 
