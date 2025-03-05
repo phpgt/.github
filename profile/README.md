@@ -62,7 +62,7 @@ If you're familiar with starting PHP projects using Composer, head over to the [
 
 ### Contributing to open source
 
-If you've found a bug, or have a feature request, read the guide on [how to contribute issues to PHP.GT][issues].
+If you've found a bug, or have a feature request, read the guide on [how to contribute issues to PHP.GT][gt-issues].
 
 If you're interested in contributing code, but don't know where to start, learn [how to contribute to open source by creating a pull request][gt-contributing] to be guided in finding an issue to implement or fix, coding the feature, and submitting your first pull request.
 
