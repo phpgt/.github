@@ -44,16 +44,30 @@ On top of the [standard DOM API][dom-standards], you can take advantage of [intu
 
 ### Bring your own database
 
-The [Object Relational Mapper (ORM)][orm] automates database persistence, but allows you to get your hands dirty with [custom SQL queries][orm-custom-sql] when you need to.
-
 There's [no database connection made until you use one][webengine-lazy-services], so you're not forced to use any technologies until they're a requirement of your application's functionality - sometimes a directory structure or a CSV file is all you need!
+
+The [Object Relational Mapper (ORM)][orm] automates database persistence, but allows you to get your hands dirty with [custom SQL queries][orm-custom-sql] when you need to.
 
 ### The full stack
 
 Client-side development is handled automatically through the [build process][build]. A sensible set of [default build steps][webengine-build] can be extended when needed.
 
-A [micro framework on the client side][turbo-pages] gives your pages live updates and transitions out of the box.
+**Turbo** is a [micro framework on the client side][turbo-pages] gives your pages live updates and transitions out of the box.
 
+## Get involved
+
+If you've never developed anything in PHP before, take a look at [the basics of PHP and WebEngine][webengine-basics]. The guide covers the steps involved in getting a PHP development environment up and running on your computer, and then goes on to explain the basics of PHP syntax and getting started with WebEngine application development.
+
+If you're familiar with starting PHP projects using Composer, head over to the [quick start guide][webengine-quick-start] - you'll be up and running in 30 seconds.
+
+### Contributing to open source
+
+If you've found a bug, or have a feature request, read the guide on [how to contribute issues to PHP.GT][issues].
+
+If you're interested in contributing code, but don't know where to start, learn [how to contribute to open source by creating a pull request][gt-contributing] to be guided in finding an issue to implement or fix, coding the feature, and submitting your first pull request.
+
+[gt-issues]: https://www.php.gt/docs/gt/issues/
+[gt-contributing]: https://www.php.gt/docs/gt/contributing/
 [webengine-tutorials]: https://www.php.gt/docs/webengine/tutorials/
 [webengine-getting-started]: https://www.php.gt/docs/webengine/getting-started/
 [webengine-request-response]: https://www.php.gt/docs/webengine/request-response-lifecycle/
@@ -64,9 +78,10 @@ A [micro framework on the client side][turbo-pages] gives your pages live update
 [domtemplate]: https://www.php.gt/domtemplate/
 [domvalidation]: https://www.php.gt/domvalidation/
 [orm]: https://www.php.gt/orm/
-[orm-custom-sql]: https://www.php.gt/orm/custom-sql/
+[orm-custom-sql]: https://www.php.gt/docs/orm/custom-sql/
 [webengine-lazy-services]: https://www.php.gt/docs/webengine/service-loader/
 [build]: https://www.php.gt/build/
 [webengine-build]: https://www.php.gt/docs/webengine/build/
 [turbo-pages]: https://www.php.gt/turbo/
-
+[webengine-basics]: https://www.php.gt/docs/webengine/basics/
+[webengine-quick-start]: https://www.php.gt/docs/webengine/quick-start/
