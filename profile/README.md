@@ -6,14 +6,13 @@
 > + Plain HTTP techniques for easy debugging
 > + Live-updating pages built in
 
-## Minimalist, modular, modern PHP development
+# Minimalist, modular, modern PHP development
 
 Web frameworks offer many features, but often come with steep learning curves or imposing rules. The motivation behind this project is the belief that what a framework can offer can be achieved by **eliminating code rather than adding more**.
 
 // TODO: Example code
 
-Who is GT for?
---------------
+# Who is GT for?
 
 The overall aim throughout GT repositories is to provide an alternative, minimalistic approach to web development. If you're tired of working with the so called "full stack", there might be something of interest to you here.
 
@@ -23,16 +22,15 @@ WebEngine itself provides a "batteries-included" default configuration and has a
 
 Whether you're just starting your web development journey or seeking a new perspective on established practices, you are invited to explore WebEngine further by visiting the [Getting Started][webengine-getting-started] page.
 
-Get to know GT
---------------
+# Get to know GT
 
-### WebEngine
+## WebEngine
 
 Jump right in to some [full featured tutorials][webengine-tutorials], or follow the [getting started guide][webengine-getting-started] for a good overview of the development process in WebEngine applications.
 
 The user guide starts at ["the request-response lifecycle"][webengine-request-response], which exposes the logic that makes WebEngine work, from the first line of the first PHP script, all the way through to the page being sent back to the browser.
 
-### The Document Object Model (DOM)
+## The Document Object Model (DOM)
 
 Modern web development is underpinned by the DOM, but using its benefits is usually constrained to the client-side.
 
@@ -40,25 +38,25 @@ Having a [full-featured DOM][dom] in your server-side code enhances the way dyna
 
 On top of the [standard DOM API][dom-standards], you can take advantage of [intuitive templating][domtemplate], [server-side validation][domvalidation], and more.
 
-### Bring your own database
+## Bring your own database
 
 There's [no database connection made until you use one][webengine-lazy-services], so you're not forced to use any technologies until they're a requirement of your application's functionality - sometimes a directory structure or a CSV file is all you need!
 
 The [Object Relational Mapper (ORM)][orm] automates database persistence, but allows you to get your hands dirty with [custom SQL queries][orm-custom-sql] when you need to.
 
-### The full stack
+## The full stack
 
 Client-side development is handled automatically through the [build process][build]. A sensible set of [default build steps][webengine-build] can be extended when needed.
 
 **Turbo** is a [micro framework on the client side][turbo-pages] gives your pages live updates and transitions out of the box.
 
-## Get involved
+# Get involved
 
 If you've never developed anything in PHP before, take a look at [the basics of PHP and WebEngine][webengine-basics]. The guide covers the steps involved in getting a PHP development environment up and running on your computer, and then goes on to explain the basics of PHP syntax and getting started with WebEngine application development.
 
 If you're familiar with starting PHP projects using Composer, head over to the [quick start guide][webengine-quick-start] - you'll be up and running in 30 seconds.
 
-### Contributing to open source
+## Contributing to open source
 
 If you've found a bug, or have a feature request, read the guide on [how to contribute issues to PHP.GT][gt-issues].
 
