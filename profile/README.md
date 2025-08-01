@@ -24,6 +24,8 @@ Whether you're just starting your web development journey or seeking a new persp
 
 # Get to know GT
 
+The PHP.GT project is made up of a [collection of repositories](https://github.com/orgs/phpgt/repositories) that can all be used indipendently, but are designed to be used together, as part of the WebEngine framework.
+
 ## WebEngine
 
 Jump right in to some [full featured tutorials][webengine-tutorials], or follow the [getting started guide][webengine-getting-started] for a good overview of the development process in WebEngine applications.
