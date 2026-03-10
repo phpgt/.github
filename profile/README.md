@@ -1,3 +1,5 @@
+<div class="intro">
+
 **PHP.GT** is a collection of web development tools that form **[WebEngine](https://www.php.gt/webengine/)** — an ergonomic toolkit for building web applications. WebEngine follows a static-first approach: development begins using plain HTML files, with PHP introduced only when needed. Dynamic behavior is handled through server-side DOM manipulation, mirroring well-known client-side techniques.
 
 > + Start with static HTML
@@ -5,6 +7,8 @@
 > + Bind data automatically to the DOM
 > + Plain HTTP techniques for easy debugging
 > + Live-updating pages built in
+
+</div>
 
 # Minimalist, modular, modern PHP development
 
