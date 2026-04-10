@@ -54,7 +54,7 @@ The [Object Relational Mapper (ORM)][orm] automates database persistence, but al
 
 Client-side development is handled automatically through the [build process][build]. A sensible set of [default build steps][webengine-build] can be extended when needed.
 
-**Turbo** is a [micro framework on the client side][turbo-pages] gives your pages live updates and transitions out of the box.
+**Flux** is a [micro framework on the client side][flux] gives your pages live updates and transitions out of the box.
 
 # Get involved
 
@@ -84,6 +84,6 @@ If you're interested in contributing code, but don't know where to start, learn 
 [webengine-lazy-services]: https://www.php.gt/docs/webengine/service-loader/
 [build]: https://www.php.gt/build/
 [webengine-build]: https://www.php.gt/docs/webengine/build/
-[turbo-pages]: https://www.php.gt/turbo/
+[flux]: https://www.php.gt/flux/
 [webengine-basics]: https://www.php.gt/docs/webengine/basics/
 [webengine-quick-start]: https://www.php.gt/docs/webengine/quick-start/
