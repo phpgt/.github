@@ -14,7 +14,34 @@
 
 Web frameworks offer many features, but often come with steep learning curves or imposing rules. The motivation behind this project is the belief that what a framework can offer can be achieved by **eliminating code rather than adding more**.
 
-// TODO: Example code
+<div class="example">
+
+```html
+<!doctype html>
+
+<h1>Hello, <span data-bind:text="name">you</span>!</h1>
+
+<form>
+	<label>
+		<span>Your name, please!</span>
+		<input name="name" required placeholder="e.g. Ada Lovelace" />
+	</label>
+
+	<button name="do" value="greet">Greet</button>
+</form>
+```
+
+```php
+<?php
+use GT\Input\Input;
+use GT\DomTemplate\Binder;
+
+function do_greet(Input $input, Binder $binder):void {
+	$binder->bindData($input);
+}
+```
+  
+</div>
 
 # Who is GT for?
 
