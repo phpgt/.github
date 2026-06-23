@@ -18,7 +18,6 @@ Web frameworks offer many features, but often come with steep learning curves or
 
 ```html
 <!doctype html>
-
 <h1>Hello, <span data-bind:text="name">you</span>!</h1>
 
 <form>
