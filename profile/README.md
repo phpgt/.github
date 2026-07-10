@@ -50,7 +50,7 @@ All GT repositories are designed to be inclusive to novice developers. Each repo
 
 WebEngine itself provides a "batteries-included" default configuration and has an accessible entry point for beginners. However, its capabilities extend far beyond basic use-cases; WebEngine is robust enough to power large-scale, real-world applications serving millions of users.
 
-Whether you're just starting your web development journey or seeking a new perspective on established practices, you are invited to explore WebEngine further by visiting the [quick start][webengine-quick-started] page.
+Whether you're just starting your web development journey or seeking a new perspective on established practices, you are invited to explore WebEngine further by visiting the [quick start][webengine-quick-start] page.
 
 # Get to know GT
 
