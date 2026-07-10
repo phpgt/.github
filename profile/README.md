@@ -58,9 +58,9 @@ The PHP.GT project is made up of a [collection of repositories](https://github.c
 
 ## WebEngine
 
-Jump right in to some [full featured tutorials][webengine-tutorials], or follow the [getting started guide][webengine-getting-started] for a good overview of the development process in WebEngine applications.
+Read the [core principals of WebEngine][webengine-core-principals], or follow the [_Hello, You!_ tutorial][webengine-hello-you] for a good overview of the development process in WebEngine applications.
 
-The user guide starts at ["the request-response lifecycle"][webengine-request-response], which exposes the logic that makes WebEngine work, from the first line of the first PHP script, all the way through to the page being sent back to the browser.
+To fully understand the tech that builds WebEngine applications, [the request-response lifecycle][webengine-request-response] exposes the logic that makes WebEngine work, from the first line of the first PHP script, all the way through to the page being sent back to the browser.
 
 ## The Document Object Model (DOM)
 
@@ -96,9 +96,9 @@ If you're interested in contributing code, but don't know where to start, learn 
 
 [gt-issues]: https://www.php.gt/docs/gt/issues/
 [gt-contributing]: https://www.php.gt/docs/gt/contributing/
-[webengine-tutorials]: https://www.php.gt/docs/webengine/tutorials/
 [webengine-request-response]: https://www.php.gt/docs/webengine/request-response-lifecycle/
-[webengine-example-applications]: https://www.php.gt/docs/webengine/example-applications/
+[webengine-hello-you]: https://www.php.gt/docs/webengine/hello-you-tutorial/
+[webengine-core-principals]: https://www.php.gt/docs/webengine/core-principals/
 [dom]: https://www.php.gt/dom/
 [dom-standards]: https://www.php.gt/docs/dom/standards/
 [webengine-mpa]: https://www.php.gt/docs/webengine/multi-pass-rendering/
