@@ -50,7 +50,7 @@ All GT repositories are designed to be inclusive to novice developers. Each repo
 
 WebEngine itself provides a "batteries-included" default configuration and has an accessible entry point for beginners. However, its capabilities extend far beyond basic use-cases; WebEngine is robust enough to power large-scale, real-world applications serving millions of users.
 
-Whether you're just starting your web development journey or seeking a new perspective on established practices, you are invited to explore WebEngine further by visiting the [Getting Started][webengine-getting-started] page.
+Whether you're just starting your web development journey or seeking a new perspective on established practices, you are invited to explore WebEngine further by visiting the [quick start][webengine-quick-started] page.
 
 # Get to know GT
 
@@ -97,7 +97,6 @@ If you're interested in contributing code, but don't know where to start, learn 
 [gt-issues]: https://www.php.gt/docs/gt/issues/
 [gt-contributing]: https://www.php.gt/docs/gt/contributing/
 [webengine-tutorials]: https://www.php.gt/docs/webengine/tutorials/
-[webengine-getting-started]: https://www.php.gt/docs/webengine/getting-started/
 [webengine-request-response]: https://www.php.gt/docs/webengine/request-response-lifecycle/
 [webengine-example-applications]: https://www.php.gt/docs/webengine/example-applications/
 [dom]: https://www.php.gt/dom/
