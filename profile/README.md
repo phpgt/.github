@@ -106,7 +106,7 @@ If you're interested in contributing code, but don't know where to start, learn 
 [domvalidation]: https://www.php.gt/domvalidation/
 [orm]: https://www.php.gt/orm/
 [orm-custom-sql]: https://www.php.gt/docs/orm/custom-sql/
-[webengine-lazy-services]: https://www.php.gt/docs/webengine/service-loader/
+[webengine-lazy-services]: https://www.php.gt/docs/webengine/service-container/
 [build]: https://www.php.gt/build/
 [webengine-build]: https://www.php.gt/docs/webengine/build/
 [flux]: https://www.php.gt/flux/
