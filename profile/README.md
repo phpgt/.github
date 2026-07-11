@@ -108,7 +108,7 @@ If you're interested in contributing code, but don't know where to start, learn 
 [orm-custom-sql]: https://www.php.gt/docs/orm/custom-sql/
 [webengine-lazy-services]: https://www.php.gt/docs/webengine/service-container/
 [build]: https://www.php.gt/build/
-[webengine-build]: https://www.php.gt/docs/webengine/build/
+[webengine-build]: https://www.php.gt/docs/webengine/Client-side-compilation/
 [flux]: https://www.php.gt/flux/
 [webengine-basics]: https://www.php.gt/docs/webengine/basics/
 [webengine-quick-start]: https://www.php.gt/docs/webengine/quick-start/
