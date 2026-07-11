@@ -101,7 +101,7 @@ If you're interested in contributing code, but don't know where to start, learn 
 [webengine-core-principals]: https://www.php.gt/docs/webengine/core-principals/
 [dom]: https://www.php.gt/dom/
 [dom-standards]: https://www.php.gt/docs/dom/standards/
-[webengine-mpa]: https://www.php.gt/docs/webengine/multi-pass-rendering/
+[webengine-mpa]: https://www.php.gt/docs/webengine/SPA-vs-MPA/
 [domtemplate]: https://www.php.gt/domtemplate/
 [domvalidation]: https://www.php.gt/domvalidation/
 [orm]: https://www.php.gt/orm/
