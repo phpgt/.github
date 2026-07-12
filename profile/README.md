@@ -90,11 +90,12 @@ If you're familiar with starting PHP projects using Composer, head over to the [
 
 ## Contributing to open source
 
-If you've found a bug, or have a feature request, read the guide on [how to contribute issues to PHP.GT][gt-contributing].
+If you've found a bug, or have a feature request, read the guide on [how to contribute issues to PHP.GT][gt-contributing-issues].
 
 If you're interested in contributing code, but don't know where to start, learn [how to contribute to open source by creating a pull request][gt-contributing] to be guided in finding an issue to implement or fix, coding the feature, and submitting your first pull request.
 
 [gt-contributing]: https://www.php.gt/contributing/
+[gt-contributing-issues]: https://www.php.gt/contributing/#report-a-bug
 [webengine-request-response]: https://www.php.gt/docs/webengine/request-response-lifecycle/
 [webengine-hello-you]: https://www.php.gt/docs/webengine/hello-you-tutorial/
 [webengine-core-principals]: https://www.php.gt/docs/webengine/core-principals/
