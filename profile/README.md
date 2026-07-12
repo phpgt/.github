@@ -68,7 +68,7 @@ Modern web development is underpinned by the DOM, but using its benefits is usua
 
 Having a [full-featured DOM][dom] in your server-side code enhances the way dynamic pages can be built. Utilising a standardised object-oriented interface means the page can be ready-processed as [Multi-page Applications (MPAs)][webengine-mpa], benefitting browsers, web servers, content delivery networks, and end-users.
 
-On top of the [standard DOM API][dom-standards], you can take advantage of [intuitive templating][domtemplate], [server-side validation][domvalidation], and more.
+On top of the standard DOM API, you can take advantage of [intuitive templating][domtemplate], [server-side validation][domvalidation], and more.
 
 ## Bring your own database
 
@@ -84,18 +84,17 @@ Client-side development is handled automatically through the [build process][bui
 
 # Get involved
 
-If you've never developed anything in PHP before, take a look at [the basics of PHP and WebEngine][webengine-basics]. The guide covers the steps involved in getting a PHP development environment up and running on your computer, and then goes on to explain the basics of PHP syntax and getting started with WebEngine application development.
+If you've never developed anything in PHP before, take a look at [the basics of PHP and WebEngine][webengine-core-principals]. The guide covers the steps involved in getting a PHP development environment up and running on your computer, and then goes on to explain the basics of PHP syntax and getting started with WebEngine application development.
 
 If you're familiar with starting PHP projects using Composer, head over to the [quick start guide][webengine-quick-start] - you'll be up and running in 30 seconds.
 
 ## Contributing to open source
 
-If you've found a bug, or have a feature request, read the guide on [how to contribute issues to PHP.GT][gt-issues].
+If you've found a bug, or have a feature request, read the guide on [how to contribute issues to PHP.GT][gt-contributing].
 
 If you're interested in contributing code, but don't know where to start, learn [how to contribute to open source by creating a pull request][gt-contributing] to be guided in finding an issue to implement or fix, coding the feature, and submitting your first pull request.
 
-[gt-issues]: https://www.php.gt/docs/gt/issues/
-[gt-contributing]: https://www.php.gt/docs/gt/contributing/
+[gt-contributing]: https://www.php.gt/contributing/
 [webengine-request-response]: https://www.php.gt/docs/webengine/request-response-lifecycle/
 [webengine-hello-you]: https://www.php.gt/docs/webengine/hello-you-tutorial/
 [webengine-core-principals]: https://www.php.gt/docs/webengine/core-principals/
@@ -105,10 +104,9 @@ If you're interested in contributing code, but don't know where to start, learn 
 [domtemplate]: https://www.php.gt/domtemplate/
 [domvalidation]: https://www.php.gt/domvalidation/
 [orm]: https://www.php.gt/orm/
-[orm-custom-sql]: https://www.php.gt/docs/orm/custom-sql/
+[orm-custom-sql]: https://www.php.gt/sqlbuilder/
 [webengine-lazy-services]: https://www.php.gt/docs/webengine/service-container/
 [build]: https://www.php.gt/build/
 [webengine-build]: https://www.php.gt/docs/webengine/Client-side-compilation/
 [flux]: https://www.php.gt/flux/
-[webengine-basics]: https://www.php.gt/docs/webengine/basics/
 [webengine-quick-start]: https://www.php.gt/docs/webengine/quick-start/
